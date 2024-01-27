@@ -6,4 +6,4 @@ This project take an image for any type of vehicle, Detects it plate number, cro
  - YoloV8
  # Results 
  - Original Image
-   <img src="blob/master/img.jpg" width="128"/>
+   <img src="https://github.com/yassminSaber/Egyptian-Plate-Number-Detection/blob/master/img.jpg" width="128"/>
